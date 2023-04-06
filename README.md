@@ -2,6 +2,8 @@
 This is a python course aimed at beginners who (preferably)
 have a basic understanding of Spreadsheet software.
 
+you can find the slides in the root folder, in MS Powerpoint format.
+
 ## exercises folder
 The detailed description of all the exercises from the slides, in available in MD, PDF and MS Word formats.
 

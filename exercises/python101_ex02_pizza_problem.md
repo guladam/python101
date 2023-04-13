@@ -1,6 +1,6 @@
 # problem #2
 
-![pizza](images/pizza.png)
+<img src="images/pizza.png" width="100">
 Jane decided to host a party because she is a nice person. She wants to order pizza for the gang as per usual.
 
 Unfortunately, she is not very good at math. That's why she asked you to help her to get the best value possible on her order. Is it better to get fewer but bigger pizzas? Or maybe they should go for more but smaller pizzas?

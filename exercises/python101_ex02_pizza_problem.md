@@ -27,5 +27,4 @@ Std. Output:
 
 total area of bigger pizza(s): 804.25 cm2
 total area of smaller pizza(s): 904.78 cm2
-total area of smaller pizza(s): 904.78 cm2
 ```

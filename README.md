@@ -10,7 +10,7 @@ The detailed description of all the exercises from the slides, in available in M
 ## solutions folder
 Solutions to the aforementioned exercises in python.
 
-## practice
+## practice folder
 Practice tasks you can do after completing a lesson.
 
 # additional info

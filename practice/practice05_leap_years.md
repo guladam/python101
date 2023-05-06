@@ -10,7 +10,7 @@ A year is a leap year if it satisfies the following conditions:
 - or it is divisible by 400
 
 ## instructions
-Write a program the year as an integer from the standard input:
+Write a program that gets the year as an integer from the standard input:
 Print the appropriate message the standard output.
 
 > leap year

@@ -7,7 +7,7 @@ The prices should be random but there are some restrictions:
 - the total price needs to be *EXACTLY* 7000 HUF
 - appetizers should cost between 1000 and 1500 HUF
 - the entree should cost between 3000 and 5000 HUF
-- desserts should cose between 1000 and 2000 HUF
+- desserts should cost between 1000 and 2000 HUF
 
 > Extra tip: you can use *random.randint()* from the **random** module to generate the number.
 
